@@ -36,11 +36,6 @@ Die beiden Diagramme lassen sich gut **kombinieren**, um ein **vollständiges Ve
 > Bei **SaaS** musst du dich nicht um das Betriebssystem kümmern (Diagramm 1),  
 > **aber** du bleibst verantwortlich für Dinge wie **Passwortsicherheit, Benutzerverwaltung oder Datenschutz** (Diagramm 2).
 
----
-
-## Fazit
-
-Die Kombination beider Modelle hilft dir, **technische und sicherheitsrelevante Verantwortlichkeiten** klar zu unterscheiden und besser zu planen – besonders in Cloud-Umgebungen.
 
 | Komponente               | On-Premises | IaaS        | PaaS        | SaaS        |
 |--------------------------|-------------|-------------|-------------|-------------|
