@@ -54,7 +54,6 @@ Die Kombination beider Modelle hilft dir, **technische und sicherheitsrelevante 
 | Storage                  | SV          | Anbieter    | Anbieter    | Anbieter    |
 | Networking               | SV          | Anbieter    | Anbieter    | Anbieter    |
 
-**Legende:**
 - **SV** = Selbst verwaltet
 - **Anbieter** = Wird vom Cloud-Anbieter gemanagt
 
