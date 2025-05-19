@@ -1,26 +1,46 @@
-Welche Gemeinsamkeiten und Unterschiede lassen sich erkennen?
-Welche unterschiedlichen Schwerpunkte setzen die Diagramme?
-Wie lassen sich die Inhalte beider Grafiken sinnvoll miteinander in Verbindung bringen?
+# Vergleich und Verbindung der Diagramme: IaaS, PaaS, SaaS & Shared
 
-1. Gemeinsamkeiten und Unterschiede:
-•	Beide zeigen das Prinzip von Shared Responsibility (wer verwaltet was?).
-•	IaaS, PaaS und SaaS werden gestuft dargestellt – je weiter rechts, desto mehr übernimmt der Anbieter.
-Unterschiede:
-Das erste Diagramm zeigt technische Schichten (z. B. OS, Middleware) als Farbenblock für jede Rolle (du vs. Anbieter).
-Das zweite Diagramm (SVG) zeigt das Gleiche, aber oft visuell aufgelockerter oder kontextbezogen mit Icons, z. B. mit Fokus auf Sicherheitsverantwortung.
-2. Unterschiedliche Schwerpunkte:
-Diagramm 1 (gestapelte Blöcke):
-Fokus liegt auf technischer Kontrolle – was du verwaltest und was der Anbieter übernimmt.
-Diagramm 2 (Shared Responsibility Model):
-Häufiger Fokus auf Sicherheitsaspekte und Risikoverteilung, z. B. bei Cloud-Sicherheit (besonders bei AWS, Azure etc.).
- 3. Sinnvolle Verbindung beider Inhalte:
-Du kannst beide kombinieren, um ganzheitlich zu verstehen:
-•	Diagramm 1 zeigt, welche Komponenten du verwaltest.
-•	Diagramm 2 ergänzt, welche Sicherheits- und Betriebsverantwortungen du trägst, selbst wenn z. B. der Anbieter den Server bereitstellt.
-➡️ Beispiel:
-Bei SaaS musst du dich nicht um das OS kümmern (Diagramm 1), aber du bist trotzdem verantwortlich für Passwortsicherheit oder Zugriffsrechte (Diagramm 2).
+## 1. Gemeinsamkeiten und Unterschiede
 
-# Verantwortungsmodell: On-Premises, IaaS, PaaS, SaaS
+**Gemeinsamkeiten:**
+- Beide Diagramme zeigen das Prinzip der **Shared Responsibility** – also die Aufteilung der Verantwortlichkeiten zwischen dir und dem Anbieter.
+- Die Modelle **IaaS, PaaS und SaaS** werden **stufenweise** dargestellt: Je weiter rechts, desto **mehr übernimmt der Anbieter**.
+
+**Unterschiede:**
+- **Diagramm 1**: Fokus auf **technische Komponenten** wie Betriebssystem, Middleware, etc., dargestellt als farbige Blöcke (du vs. Anbieter).
+- **Diagramm 2**: Gleiche Grundidee, aber visuell oft **detaillierter oder mit Icons** gestaltet – betont besonders die **Sicherheitsverantwortung** (z. B. bei AWS, Azure).
+
+---
+
+## 2. Unterschiedliche Schwerpunkte
+
+| Diagramm             | Schwerpunkt |
+|----------------------|-------------|
+| **Diagramm 1**       | Technische Kontrolle – wer verwaltet welche Schicht? |
+| **Diagramm 2**       | Sicherheit und Risiko – wer ist wofür verantwortlich bei z. B. Datenschutz, Zugriff, Verschlüsselung? |
+
+---
+
+## 3. Sinnvolle Verbindung beider Inhalte
+
+Die beiden Diagramme lassen sich gut **kombinieren**, um ein **vollständiges Verständnis** zu schaffen:
+
+- **Diagramm 1** zeigt:  
+  → Welche **technischen Komponenten** du selbst betreibst (z. B. OS, Runtime, App).
+
+- **Diagramm 2** zeigt:  
+  → Welche **Sicherheits- und Betriebsverantwortungen** du **trotzdem behalten musst**, auch wenn die Technik vom Anbieter kommt.
+
+➡️ **Beispiel zur Verknüpfung:**
+
+> Bei **SaaS** musst du dich nicht um das Betriebssystem kümmern (Diagramm 1),  
+> **aber** du bleibst verantwortlich für Dinge wie **Passwortsicherheit, Benutzerverwaltung oder Datenschutz** (Diagramm 2).
+
+---
+
+## Fazit
+
+Die Kombination beider Modelle hilft dir, **technische und sicherheitsrelevante Verantwortlichkeiten** klar zu unterscheiden und besser zu planen – besonders in Cloud-Umgebungen.
 
 | Komponente               | On-Premises | IaaS        | PaaS        | SaaS        |
 |--------------------------|-------------|-------------|-------------|-------------|
