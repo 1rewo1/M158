@@ -33,8 +33,8 @@ Die beiden Diagramme lassen sich gut **kombinieren**, um ein **vollständiges Ve
 
 ➡️ **Beispiel zur Verknüpfung:**
 
-> Bei **SaaS** musst du dich nicht um das Betriebssystem kümmern (Diagramm 1),  
-> **aber** du bleibst verantwortlich für Dinge wie **Passwortsicherheit, Benutzerverwaltung oder Datenschutz** (Diagramm 2).
+> Bei **SaaS** musst man nicht um das Betriebssystem kümmern (Diagramm 1),  
+> **aber** bleibt verantwortlich für Dinge wie **Passwortsicherheit, Benutzerverwaltung oder Datenschutz** (Diagramm 2).
 
 
 | Komponente               | On-Premises | IaaS        | PaaS        | SaaS        |
