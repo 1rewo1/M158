@@ -10,7 +10,13 @@ https://plan.tomsplanner.com/#doc=WBnUTMsSTcwgZFHvCGcm
 
 ## Aufgabe 3 – Umgebung aufbauen
 
-Ich hab mich an die Anleitung vom Lehrer gehalten, aber ein paar Sachen angepasst. Ich hab zwei Server gemacht: Einen für die Webseite und einen für die Datenbank. Danach hab ich geschaut, ob die beiden sich auch wirklich erreichen können dafür musst ich den net-tools instalieren mit dem Befehl sudo apt install net-tools. dann mit 
+Ich hab mich an die Anleitung vom Lehrer gehalten, aber ein paar Sachen angepasst. Ich hab zwei Server gemacht: Einen für die Webseite und einen für die Datenbank. Danach hab ich geschaut, ob die beiden sich auch wirklich erreichen können dafür musst ich den net-tools instalieren mit dem Befehl sudo apt install net-tools damit ich zuerst die Netzwerckumgebung teste und dann beie gepingt.
+
+<img width="340" height="178" alt="image" src="https://github.com/user-attachments/assets/ab01e4be-5a41-484c-b9d3-e5a3f10e53e1" />
+<img width="328" height="174" alt="image" src="https://github.com/user-attachments/assets/22ae71d7-e8d1-492d-bd75-372e392ea7b3" />
+<img width="305" height="119" alt="image" src="https://github.com/user-attachments/assets/918eeb12-fcac-4fc7-ab32-9b7947d2711e" />
+<img width="298" height="117" alt="image" src="https://github.com/user-attachments/assets/27c9e63c-f2ce-4c47-91c6-8cfbe017d738" />
+
 
 ## Aufgabe 4 – DNS
 
