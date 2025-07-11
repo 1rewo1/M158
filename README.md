@@ -105,5 +105,10 @@ Ich habe mir die Testfällen von Samuele ausgelehnt und habe sie mit meinem eige
 
 <img width="703" height="367" alt="image" src="https://github.com/user-attachments/assets/d663f82a-7c27-4ca2-864f-727e889137ae" />
 
+<img width="587" height="444" alt="image" src="https://github.com/user-attachments/assets/c02cbe47-afc5-4500-9919-7f18c31e6091" />
 
+<img width="949" height="312" alt="image" src="https://github.com/user-attachments/assets/bba3d2b9-6d7c-4d3b-af56-c18b1a6e91b2" />
 
+## Reflexion
+
+Ich fand das Projekt super, auch wenn es mich anfangs überfordert hat. Es ist schade, dass wir in der Schule wegen der Ausfälle zu wenig Zeit dafür hatten. Trotzdem konnte ich am Schluss mit Hilfe von Samuele – zuhause nochmals von null anfangen und alles fertig machen. Jetzt kann ich mir gut vorstellen, so etwas auch privat und im Geschäft zu nutzen.
