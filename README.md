@@ -53,7 +53,4 @@ Ich hab zwei Bash-Skripte geschrieben:
 
 Beide Skripte schicken mir am Ende eine Mail, damit ich weiss, dass das Backup durchgelaufen ist. Die laufen automatisch jede Nacht mit Cron.
 
-## Aufgabe 12 – Testing
-
-Ich habe mir die Testfällen von Samuele ausgelehnt und habe sie mit meinem eigenen Projekt durchbearbeitet.
 
