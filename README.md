@@ -57,8 +57,3 @@ Beide Skripte schicken mir am Ende eine Mail, damit ich weiss, dass das Backup d
 
 Ich habe mir die Testfällen von Samuele ausgelehnt und habe sie mit meinem eigenen Projekt durchbearbeitet.
 
-## Reflexion
-
--- hier kommt deine reflexion hin
-
----
